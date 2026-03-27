@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://demo-mu-jade.vercel.app">Live Demo</a> | <a href="https://demo-mu-jade.vercel.app/e-2-with-bot.html">Style 2</a> | <a href="https://demo-mu-jade.vercel.app/g-2-with-bot.html">Style 3</a>
+  🔗 <a href="https://demo-mu-jade.vercel.app/indexv2.html">Live Demo (3D Bot)</a> | <a href="https://demo-mu-jade.vercel.app">Classic</a> | <a href="https://demo-mu-jade.vercel.app/e-2-with-bot.html">Style 2</a> | <a href="https://demo-mu-jade.vercel.app/g-2-with-bot.html">Style 3</a>
   <br/>
   <sub>⚠️ UI demo — backend API required for real AI responses, falls back to demo data when offline</sub>
 </p>
