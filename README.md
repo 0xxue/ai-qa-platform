@@ -13,6 +13,12 @@
   Open-source enterprise AI QA platform with Agentic RAG (11-node LangGraph). Ask questions in natural language, get data-driven answers with charts and source attribution. Freely switch between any LLM.
 </p>
 
+<p align="center">
+  🔗 <a href="https://demo-mu-jade.vercel.app">Live Demo</a> | <a href="https://demo-mu-jade.vercel.app/e-2-with-bot.html">Style 2</a> | <a href="https://demo-mu-jade.vercel.app/g-2-with-bot.html">Style 3</a>
+  <br/>
+  <sub>⚠️ UI demo — backend API required for real AI responses, falls back to demo data when offline</sub>
+</p>
+
 > **Note:** Inspired by real-world production experience. All business-specific code has been generalized and no proprietary information is included. Built for financial analytics — easily adaptable to any industry by modifying API descriptions, prompt templates, and data sources.
 
 <p align="center">
